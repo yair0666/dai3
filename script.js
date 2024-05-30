@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Siempre estaré aquí para celebrar tus momentos de felicidad contigo."
             ],
             triste: [
-                "No importa cómo te sientas, siempre estoy aquí para ti.",
+                "Siempre estaré aquí para ti sin importar lo que suceda.",
                 "Te amo",
                 "Triste y no me lo dices? Mya",
                 "No estes triste y ya jajaja",
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "La tristeza nos recuerda lo importante que es sentir y estar vivos.",
                 "En los momentos de tristeza es cuando más crecemos y aprendemos sobre nosotros mismos.",
                 "Tu tristeza es como una nube pasajera, pronto dará paso a un cielo despejado.",
-                "No estás solo/a, siempre estaré aquí para abrazarte y consolarte.",
+                "No estás sola, siempre estaré aquí para abrazarte y consolarte.",
                 "Recuerda que detrás de cada nube gris siempre hay un rayo de sol esperando brillar.",
                 "Las lágrimas son el agua que riega el jardín del crecimiento personal.",
                 "La tristeza es solo un invitado temporal, no dejes que se convierta en tu hogar.",
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Y si te pompo unos chetos se te quita?",
                 "Y si nos besamos 10 horas pa q se te olvide?",
                 "Y si nos abasamos 10 horas pa q se te olvide?",
-                "No mames preciosa que diria la HelloKitty pq estas asi",
+                "No mames preciosa que diria la HelloKitty pq estas asi.",
                 "A la hellokitty no le gustaria verte asi, piensale padri",
                 "Una altanera, preciosa y orgullosa no debe sentirse asi, pilas mi vida",
                 "Y si vamos a criticar gente naca al parque pa que se te olvide?",
