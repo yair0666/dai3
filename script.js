@@ -77,7 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
             masomenos: [
                 "¡No te preocupes! Todos tenemos días así, pero recuerda que siempre hay una razón para sonreír.",
                 "Te amo",
-                
                 "Incluso en los días más o menos, tienes el poder de hacer que todo sea especial.",
                 "Mantén la cabeza en alto, pronto vendrán mejores días.",
                 "A veces solo necesitas un pequeño descanso para recargar energías y volver a empezar.",
