@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const randomMessage = moodMessages[mood][randomIndex];
             return `${randomMessage} Recuerda que te quiero muchito, mi Dairita ❤️`;
         } else {
-            return `Recuerda que te quiero muchito, mi Dairita ❤️`;
+           
         }
     }
 });
