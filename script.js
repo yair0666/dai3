@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const randomMessage = moodMessages[mood][randomIndex];
             return `${randomMessage} Recuerda que te quiero muchito, mi Dairita ❤️`;
         } else {
-            return `¡No importa cómo te sientas! Siempre te apoyaré y estaré aquí para ti. Recuerda que te quiero muchito, mi Dairita ❤️`;
+            return `Recuerda que te quiero muchito, mi Dairita ❤️`;
         }
     }
 });
